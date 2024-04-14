@@ -1,0 +1,19 @@
+{
+  "name": "journal_with_wendy",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "dotenv": "^16.3.1",
+    "moment-timezone": "^0.5.43",
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "openai": "^4.17.3",
+    "pg": "^8.11.3",
+    "telegraf": "^4.15.0",
+    "tiktoken": "^1.0.10"
+  }
+}
