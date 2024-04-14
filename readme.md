@@ -30,10 +30,10 @@ Telegram bot commands:
 
 
 
-# Tech
+# Tech Stack
 This project uses the following services and projects:
 - node.js
-- OpenAI
+- OpenAI API 
 - Telegram API
 - Telegraf
 - Airtable
