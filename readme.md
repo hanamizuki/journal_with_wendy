@@ -32,6 +32,7 @@ Telegram bot commands:
 
 # Tech
 This project uses the following services and projects:
+- node.js
 - OpenAI
 - Telegram API
 - Telegraf
